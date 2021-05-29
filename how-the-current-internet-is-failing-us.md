@@ -9,3 +9,8 @@ Internet supposes to make the world flat, where everything is accessible by anyo
 P/s: Don't feel bad alone, I also deliberately found out about the bad debts of my current using bank when trying to collect examples for this article. Before that I have no clue what is going on with my finance.
 
 On the other hand, while data is abundant, they are short-lived and very hard to trace edit history. Say you have a link to my post about how the Internet is being awful, today it might be online but tomorrow it can be shut down because of many reasons or even its content is changed to say the opposite. Those things can happen without anyone knowing, even me - the author. My post is a minor case, no one will get hurt but what if instead of my post, it is the report page of a charity campaign? Duplicate contigency, event-sourcing system are available options to prevent those problems mentioned but it is not by default and only acknowledged by a small proportion of Internet's participants.
+
+## Dominant manipulation-based business model
+
+Put it simply: advertisement is what make most profit on the Internet. Although it helps market products to interested users, the way companies rely too much on it cause tremendous consequence to community. At the first dawn of technology, it appears, attracts and then enable people to actualize ideas. Now, applications appears, attracts and extract people, luring us to use them whenever possible to expose our attention to advertisement. We used to use phone only when necessary, now we use them when nothing is necessary.
+
