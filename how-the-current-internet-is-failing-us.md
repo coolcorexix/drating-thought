@@ -12,5 +12,5 @@ On the other hand, while data is abundant, they are short-lived and very hard to
 
 ## Dominant manipulation-based business model
 
-Put it simply: advertisement is what make most profit on the Internet. Although it helps market products to interested users, the way companies rely too much on it cause tremendous consequence to community. At the first dawn of technology, it appears, attracts and then enable people to actualize ideas. Now, applications appears, attracts and extract people, luring us to use them whenever possible to expose our attention to advertisement. We used to use phone only when necessary, now we use them when nothing is necessary.
+Put it simply: advertisement is what make most profit on the Internet. Although it helps market products to interested users, the way companies rely too much on it cause tremendous consequence to community. At the first dawn, tool-based technology appears, attracts and then enable people to actualize ideas. Now, applications appears, attracts and extract people, luring us to use them whenever possible to expose our attention to advertisement. We used to use phone only when necessary, now we use them when nothing is necessary.
 
